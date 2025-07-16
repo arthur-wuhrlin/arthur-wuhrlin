@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🌱 Currently </h2>
 
-- Researching about techniques to enhance Real-Time Rendering using Machine Learning for my Master's Thesis.
-- Learning about Vulkan.
-- Upgrading my website.
+- Wrapping up my Master's Thesis on Fixed GPU Memory Budget Streamed Gaussian Splatting.
+- Learning about Vulkan and CUDA.
 
 <h2 align="center"> 💼 Projects </h2>
 
