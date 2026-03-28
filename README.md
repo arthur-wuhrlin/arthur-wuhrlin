@@ -5,8 +5,8 @@
 - 🔭 Specialized in Real-Time Rendering for Computer Graphics.
 
 <p align="center">
-  <img height="50%" width="auto" src="./profile/stats.png">
-  <img height="50%" width="auto" src="./profile/top-langs.png">
+  <img height="50%" width="auto" src="./profile/stats.svg">
+  <img height="50%" width="auto" src="./profile/top-langs.svg">
 </p>
 
 <h2 align="center"> 🌱 Currently </h2>
