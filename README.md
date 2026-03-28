@@ -5,8 +5,8 @@
 - 🔭 Specialized in Real-Time Rendering for Computer Graphics.
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=arthur-wuhrlin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars&bg_color=00000000&rank_icon=github">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-wuhrlin&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=html,javascript,python,css">
+  <img height="50%" width="auto" src="./profile/stats.png">
+  <img height="50%" width="auto" src="./profile/top-langs.png">
 </p>
 
 <h2 align="center"> 🌱 Currently </h2>
@@ -26,4 +26,4 @@
 
 - Via mail : [name].[surname] [at] u.nus.edu.
 - Via [LinkedIn](https://www.linkedin.com/in/arthur-wuhrlin/).
-- For more information check my [Website](arthur-wuhrlin.github.io).
+- For more information check my [Website](https://arthur-wuhrlin.github.io).
